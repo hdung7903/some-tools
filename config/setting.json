@@ -1,0 +1,29 @@
+{
+  "likeRecommendUser": true,
+  "sendMessageToMatchedUser": true,
+  "message": [
+    "Chào bạn, mình đến đây với mục đích nghiêm túc là nói chuyện vui vẻ.",
+    "Hi, mình không bán bảo hiểm, chỉ bán tiếng cười thôi.",
+    "Chào bạn, mình đã chuẩn bị một câu mở đầu hay nhưng quên mất rồi.",
+    "Mình nhắn trước để sau này khỏi tranh cãi ai là người chủ động.",
+    "Hi, mình nhắn để sau này khỏi tiếc là đã lướt qua một người thú vị."
+  ],
+  "location": {
+    "lat": 21.028,
+    "long": 105.854
+  },
+  "unMatch": {
+    "distance": 10,
+    "gender": "1"
+  },
+  "likeCatalogUser": false,
+  "selectedCatalogIds": [],
+  "autoExpandDistance": true,
+  "autoExpandDistanceMax": 20,
+  "ageFilterMin": 18,
+  "ageFilterMax": 30,
+  "autoExpansionAgeToggle": true,
+  "autoExpansionDistanceToggle": true,
+  "likeDelayMs": 3000,
+  "messageDelayMs": 5000
+}
